@@ -1,0 +1,1 @@
+java -cp D:\Users\125212\workspace\SeleniumWebdriver\lib\*;D:\Users\125212\workspace\SeleniumWebdriver\bin; org.testng.TestNG Testing.xml

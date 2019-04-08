@@ -111,7 +111,7 @@ public class NewSiteInstall {
  
    // Create a new instance of the Firefox driver
  
-	  System.setProperty("webdriver.chrome.driver", "D:/Users/125212/workspace/SeleniumWebdriver/chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver", ".//chromedriver.exe");
  
       //Put a Implicit wait, this means that any search for elements on the page could take the time the implicit wait is set for before throwing exception
 	  driver=new ChromeDriver();
